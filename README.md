@@ -9,6 +9,6 @@ pkg install git
 
 git clone https://github.com/BAPJI-BJ-TM/Bj-TM-stp.git
 
-cd Bj-Tm-stp
+cd Bj-TM-stp
 
 python Bj-setup.py
